@@ -19,3 +19,15 @@ Warning!
 ===========
 This code is very ugly! Since I am using GLUT, all state is held in global variables!
 Soon, I hope, I will rewrite the project, using more modern libraries, with a better architecture.
+
+Controls
+---------
+* w,a,s,d - move camera
+* middle mouse button - rotate camera
+* mouse scroll - increase/decrease edit radius
+* left/right mouse button - add/remove
+* q - swithch water/terrain
+* p - pause sim
+* e - step tthough sim when paused
+* space - walk on terrain
+* r - restore default camera position and orientation
